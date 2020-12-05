@@ -180,13 +180,6 @@ prueba9(X,A,B,C,D,E,F,G,H,I):- Y is X-1, Y is Y, Z is I-1,
 writeln('Cambio:1'),write('-1:'),writeln(Z),operador(Y,A,B,C,D,E,F,G,H,Z).
 
 
-list_sum([],0).
-
-list_sum([Head|Tail], TotalSum):-
-list_sum(Tail, Sum1),
-TotalSum is Head+Sum1.
-
-
 
 
 
