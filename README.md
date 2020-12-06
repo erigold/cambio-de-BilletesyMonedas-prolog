@@ -1,4 +1,4 @@
-# Cambio-de-billetes
+# Cambio-de-billetes y monedas
 
 Sistema experto que da cambio de billetes y monedas de acuerdo al valor del billete ingresado
 
